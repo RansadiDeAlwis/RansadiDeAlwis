@@ -41,7 +41,8 @@ I'm an **Electronic & Telecommunication Engineering Undergraduate** at **Univers
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/altium/altium-original.svg" alt="Altium" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/SolidWorks_Logo.png" width="40" alt="SolidWorks"/>
+   <img src="https://raw.githubusercontent.com/RansadiDeAlwis/RansadiDeAlwis/main/assets/solidworks-logo.png" width="40" alt="SolidWorks"/>
+
 
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gnuradio/gnuradio-original.svg" alt="GNU Radio" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
