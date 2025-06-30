@@ -54,7 +54,13 @@ I'm an **Electronic & Telecommunication Engineering Undergraduate** at **Univers
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Altium_Designer_Logo.svg" width="40" alt="Altium Designer"/>
   <img src="https://user-images.githubusercontent.com/25181517/192772378-3e30e537-5ef2-4db2-aa15-49f0f11662cc.png" width="40" alt="SolidWorks"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/GNURadio_Logo%2BIcon.svg" width="40" alt="GNU Radio"/>
+
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Altium_Designer_Logo.svg" width="40" alt="Altium Designer"/>
+  <img src="https://user-images.githubusercontent.com/25181517/192772378-3e30e537-5ef2-4db2-aa15-49f0f11662cc.png" width="40" alt="SolidWorks"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/GNURadio_Logo%2BIcon.svg" width="40" alt="GNU Radio"/>
 </p>
+
 
 ---
 
