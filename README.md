@@ -41,8 +41,9 @@ I'm an **Electronic & Telecommunication Engineering Undergraduate** at **Univers
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/altium/altium-original.svg" alt="Altium" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidworks/solidworks-original.svg" alt="SolidWorks" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gnuradio/gnuradio-original.svg" alt="GNU Radio" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
+   <img src="https://cdn.worldvectorlogo.com/logos/solidworks.svg" width="40" alt="SolidWorks"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gnuradio/gnuradio-original.svg" alt="GNU Radio" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
     <img src="https://raw.githubusercontent.com/nodered/node-red/master/packages/node_modules/node-red/public/red/images/node-red.svg" alt="Node-RED" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
   </div>
