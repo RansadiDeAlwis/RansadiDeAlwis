@@ -45,6 +45,8 @@ I'm an **Electronic & Telecommunication Engineering Undergraduate** at **Univers
     <img src="https://gnuradio.org/assets/images/gnuradio-logo.png" alt="GNU Radio" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
     <img src="https://raw.githubusercontent.com/node-red/node-red.github.io/main/images/node-red-icon.svg" alt="Node-RED" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
+    ![Altium Designer](https://upload.wikimedia.org/wikipedia/commons/7/73/Altium_Designer_Logo.png =60x60)
+
   </div>
 </div>
 
