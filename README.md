@@ -29,7 +29,7 @@ I'm an **Electronic & Telecommunication Engineering Undergraduate** at **Univers
 
 ## 💻 Tech Stack
 <div style="background-color: #1a1a1a; padding: 20px; text-align: center; color: white; font-size: 24px; margin: 20px 0;">
-  Tech Stack & Tools
+
   <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px; flex-wrap: wrap;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
@@ -40,20 +40,24 @@ I'm an **Electronic & Telecommunication Engineering Undergraduate** at **Univers
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
-    ## Altium Designer
 
-![Altium Designer Logo](https://upload.wikimedia.org/wikipedia/commons/7/73/Altium_Designer_Logo.png)
+    <!-- Altium Designer -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Altium_Designer_Logo.png" alt="Altium Designer" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
 
-   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-solidworks-a-solid-modeling-computer-aided-design-cad-and-computer-aided-engineering-logo-color-tal-revivo.png" width="40" alt="SolidWorks"/>
+    <!-- SolidWorks -->
+  <img src="https://img.icons8.com/color/48/solidworks.png" alt="SolidWorks" width="48" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
 
-
-
-
+    <!-- GNU Radio -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gnuradio/gnuradio-original.svg" alt="GNU Radio" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
-    <img src="https://raw.githubusercontent.com/nodered/node-red/master/packages/node_modules/node-red/public/red/images/node-red.svg" alt="Node-RED" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
+
+    <!-- OpenCV -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
+
+    <!-- Node-RED -->
+  <img src="https://raw.githubusercontent.com/node-red/node-red/master/packages/node_modules/node-red/public/images/node-red-icon.svg" alt="Node-RED" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
   </div>
 </div>
+
 
 ---
 
