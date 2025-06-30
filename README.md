@@ -40,7 +40,10 @@ I'm an **Electronic & Telecommunication Engineering Undergraduate** at **Univers
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
-    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/altium/altium-original.svg](https://upload.wikimedia.org/wikipedia/commons/7/75/Altium_Logo.svg)" alt="Altium" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
+    ## Altium Designer
+
+![Altium Designer Logo](https://upload.wikimedia.org/wikipedia/commons/7/73/Altium_Designer_Logo.png)
+
    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-solidworks-a-solid-modeling-computer-aided-design-cad-and-computer-aided-engineering-logo-color-tal-revivo.png" width="40" alt="SolidWorks"/>
 
 
