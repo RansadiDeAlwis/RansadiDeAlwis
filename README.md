@@ -8,7 +8,7 @@
 </p>
 
 ## 🎓 About Me
-I'm an **Electronic & Telecommunication Engineering Undergraduate** at **University of Moratuwa, Sri Lanka**, passionate about learning and leveraging AI/ML, computer vision, and IoT skills to build innovative solutions for real-world problems.
+I'm an **Electronic & Telecommunication Engineering Undergraduate** at **University of Moratuwa, Sri Lanka**, passionate about learning and leveraging Machine Learning, Deep Learning and Computer Vision skills to build innovative solutions for real-world problems.
 
 ## Currently sharpneing my skills in:
 -  Deep Learning   
@@ -19,7 +19,7 @@ I'm an **Electronic & Telecommunication Engineering Undergraduate** at **Univers
 ## Interests & Goals
 - Applying technology to solve real-world problems
 - Open to **research opportunities** and **collaborative projects**
-- Seeking **internships** in AI/ML, image processing, and IoT
+- Seeking **internships** in Deep Learning, Computer Vision and Image Processsing
 - Looking to collaborate on **impactful open-source projects**
 
 ## 📫 Connect With Me
@@ -65,73 +65,11 @@ I'm an **Electronic & Telecommunication Engineering Undergraduate** at **Univers
 
 
 
-change the tech stack to these, python, c++, raspberry pi, pytorch, tensorflow, arduino, latex, vs code,   matlab , altium , solidworks, gnu radio, open cv, arduino
-
-
-Below is the updated README.md file for your GitHub profile, replacing the tech stack with the specified technologies (Python, C++, Raspberry Pi, PyTorch, TensorFlow, Arduino, LaTeX, VS Code, MATLAB, Altium, SolidWorks, GNU Radio, OpenCV) while keeping the rest of the content intact. The file is formatted to match the original style and structure, ensuring it remains professional and visually appealing.
-
-README.md
-markdown
-Show inline
 
 
 
 
 
-
-
-# Hi there! 👋 I'm Ransadi de Alwis
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RansadiDeAlwis&label=Profile+Views&color=blue&style=flat" />
-</p>
-
-## 🎓 About Me
-I'm an **Electronic & Telecommunication Engineering Undergraduate** at **University of Moratuwa, Sri Lanka**, passionate about learning and leveraging AI/ML, computer vision, and IoT skills to build innovative solutions for real-world problems.
-
-## Currently sharpening my skills in:
-- Deep Learning
-- Image Segmentation
-- Computer Vision
-- Signal Processing
-
-## Interests & Goals
-- Applying technology to solve real-world problems
-- Open to **research opportunities** and **collaborative projects**
-- Seeking **internships** in AI/ML, image processing, and IoT
-- Looking to collaborate on **impactful open-source projects**
-
-## 📫 Connect With Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rmovinya10@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ransadi-de-alwis-739768278)
-
-## 💻 Tech Stack
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/altium/altium-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidworks/solidworks-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gnuradio/gnuradio-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40"/>
-</p>
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RansadiDeAlwis&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RansadiDeAlwis&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RansadiDeAlwis&theme=radical" alt="GitHub Streak" />
-</p>
 
 
 
