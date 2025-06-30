@@ -9,13 +9,13 @@
 ## 🎓 About Me
 I'm an **Electronic & Telecommunication Engineering Undergraduate** at **University of Moratuwa, Sri Lanka**, passionate about learning and leveraging AI/ML, computer vision, and IoT skills to build innovative solutions for real-world problems.
 
-## 🌱 Currently sharpneing my skills in:
+## Currently sharpneing my skills in:
 -  Deep Learning   
 -  Image Segmentation 
 -  Computer Vision
 - Signal Processing 
 
-## 🔭 Interests & Goals
+## Interests & Goals
 - Applying technology to solve real-world problems
 - Open to **research opportunities** and **collaborative projects**
 - Seeking **internships** in AI/ML, image processing, and IoT
@@ -45,4 +45,52 @@ I'm an **Electronic & Telecommunication Engineering Undergraduate** at **Univers
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RansadiDeAlwis&theme=radical" alt="GitHub Streak" />
 </p>
 
+
+
+<h2 align="center">Languages and Tools</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+</p>
+
+---
+
+<h2 align="center">📊 Eshan Surendra's GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EshanSurendra&show_icons=true&theme=dark&count_private=true&hide=prs&custom_title=GitHub+Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EshanSurendra&layout=compact&theme=dark&hide=Makefile&langs_count=8&custom_title=Most+Used+Languages"/>
+</div>
+
+---
+
+<h2 align="center">🔥 GitHub Contribution Streak</h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EshanSurendra&theme=dark"/>
+</p>
+
+---
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EshanSurendra&theme=github-compact&area=true"/>
+</p>
 
