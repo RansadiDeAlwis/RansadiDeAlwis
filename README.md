@@ -28,22 +28,25 @@ I'm an **Electronic & Telecommunication Engineering Undergraduate** at **Univers
 
 
 ## 💻 Tech Stack
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/altium/altium-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidworks/solidworks-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gnuradio/gnuradio-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/nodered/node-red/master/packages/node_modules/node-red/public/red/images/node-red.svg" width="40"/>
-</p>
+<div style="background-color: #1a1a1a; padding: 20px; text-align: center; color: white; font-size: 24px; margin: 20px 0;">
+  Tech Stack & Tools
+  <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px; flex-wrap: wrap;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/altium/altium-original.svg" alt="Altium" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidworks/solidworks-original.svg" alt="SolidWorks" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gnuradio/gnuradio-original.svg" alt="GNU Radio" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
+    <img src="https://raw.githubusercontent.com/nodered/node-red/master/packages/node_modules/node-red/public/red/images/node-red.svg" alt="Node-RED" width="60" style="filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));">
+  </div>
+</div>
 
 ---
 
